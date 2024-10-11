@@ -13,5 +13,10 @@
 # Lose Screen
 ![image](https://github.com/Omsurvase24/React-Wordle/assets/115352062/505b2ca3-1067-419e-a6c8-3c094998173e)
 
+# To Run :
+<p>npm run start or npm start</p>
+<p>and in another terminal</p>
+<p>json-server ./data/db.json --port 3001</p>
+
 
 
